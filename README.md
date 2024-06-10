@@ -5,6 +5,10 @@ VINS-MONO-related将会收录我对VINS-MONO的注释版和改进，可能存在
 
 ![image](https://github.com/EveningLin/VINS-MONO-related/assets/110521494/8a762a20-c38c-4685-a146-3181977fc6b5)
 
+融合轮式编码器
+
+融合GPS
+
 ## 一.VINS-MONO-commended注释版
 ### 1.1 核心理论推导
 #### 1.1.1 imu预积分
