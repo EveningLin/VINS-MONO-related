@@ -9,6 +9,8 @@ VINS-MONO-related将会收录我对VINS-MONO的注释版和改进，可能存在
 
 融合GPS
 
+无ros系统参考：https://github1s.com/PetWorm/LARVIO/blob/master/app/larvioMain.cpp#L107
+
 ## 一.VINS-MONO-commended注释版
 ### 1.1 核心理论推导
 #### 1.1.1 imu预积分
