@@ -13,6 +13,8 @@ ZUPT:https://zhuanlan.zhihu.com/p/572839550
 
 无ros系统参考：https://github1s.com/PetWorm/LARVIO/blob/master/app/larvioMain.cpp#L107
 
+https://github.com/Cai-RS/my_VINS_Mono?tab=readme-ov-file
+
 初始化 https://github.com/jannemus/InertialScale
 
 ## 一.VINS-MONO-commended注释版
