@@ -5,7 +5,7 @@ VINS-MONO-related将会收录我对VINS-MONO的注释版和改进，可能存在
 
 ![image](https://github.com/EveningLin/VINS-MONO-related/assets/110521494/8a762a20-c38c-4685-a146-3181977fc6b5)
 
-##（1）上小车
+## （1）上小车
 融合轮式编码器
 
 融合GPS
@@ -14,7 +14,7 @@ ZUPT:https://zhuanlan.zhihu.com/p/572839550
 
 路径规划
 
-##（2）无Ros
+## （2）无Ros
 
 无ros系统参考：https://github1s.com/PetWorm/LARVIO/blob/master/app/larvioMain.cpp#L107
 
