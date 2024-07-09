@@ -11,6 +11,7 @@ VINS-MONO-related将会收录我对VINS-MONO的注释版和改进，可能存在
 融合GPS
 
 ZUPT:https://zhuanlan.zhihu.com/p/572839550
+https://zhuanlan.zhihu.com/p/551109765
 
 路径规划
 
